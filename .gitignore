@@ -1,0 +1,33 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary directories created by setup
+data/
+models/
+tests/
+docs/
+
+# Activation scripts (auto-generated)
+activate.bat
+activate.sh
+
+# Cache can be large - optional to ignore
+# cache/
