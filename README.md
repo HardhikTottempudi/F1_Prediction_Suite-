@@ -5,7 +5,9 @@ A comprehensive machine learning system for Formula 1 race predictions, powered 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FastF1](https://img.shields.io/badge/FastF1-3.1+-red.svg)](https://github.com/theOehrly/Fast-F1)
 [![Scikit-learn](https://img.shields.io/badge/sklearn-1.3+-orange.svg)](https://scikit-learn.org/)
-
+## Architecture
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/45c0148a-e87d-4875-bb75-aad835013be1" />
+ 
 ## 🎯 Features
 
 - **Advanced ML Models**: Random Forest ensemble models for win probability, podium prediction, and finish position forecasting
